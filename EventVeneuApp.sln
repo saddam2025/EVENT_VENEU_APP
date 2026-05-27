@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventVeneuApp", "EventVeneuApp.csproj", "{4B5291D4-25BD-4314-8014-B47DF23D15DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\Files\DBHelper.cs = ..\Files\DBHelper.cs
+		..\Files\MainForm.cs = ..\Files\MainForm.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5291D4-25BD-4314-8014-B47DF23D15DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5291D4-25BD-4314-8014-B47DF23D15DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5291D4-25BD-4314-8014-B47DF23D15DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5291D4-25BD-4314-8014-B47DF23D15DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EED46DC-E2CA-4BDD-8D0F-B0AE5807578F}
+	EndGlobalSection
+EndGlobal
